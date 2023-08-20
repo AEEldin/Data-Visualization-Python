@@ -9,7 +9,7 @@ The tutorials covered in this repository are:
   
 + [Pie Charts using Matplotlib](https://github.com/AEEldin/PieChart-Matplotlib).
 
-+ Scatter Charts using Matplotlib
++ [Scatter Charts using Matplotlib](https://github.com/AEEldin/ScatterChart-Matplotlib)
 
 
 
