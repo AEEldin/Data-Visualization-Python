@@ -19,8 +19,8 @@ Python provides a wide range of data visualization libraries:
 
 + _**Altair**_: This library is built on top of vega-lite visualization grammar to create complex, layered, and interactive visualizations of data with declarative syntax [learn more about Altair](https://altair-viz.github.io)
 + _**Folium**_: This library is built on top of leaflet.js library to provide interactive maps and visualizations [learn about Folium](https://pypi.org/project/folium/)
-+ _**Seaborn**_: This library provides high-level interface for creating informative and attractive statistical graphics [learn about Seaborn](https://seaborn.pydata.org)
-+ _**Bokeh**_: This library helps creating interactive and informative visualizations [learn about Bokeh](http://bokeh.org)
++ _**Seaborn**_: This library provides a high-level interface for creating informative and attractive statistical graphics [learn about Seaborn](https://seaborn.pydata.org)
++ _**Bokeh**_: This library helps to create interactive and informative visualizations [learn about Bokeh](http://bokeh.org)
 + _**Matplotlib**_: This is a popular library used to create a wide range of high-quality 2D & 3D plots, charts, and graphs. This library is used extensively in scientific computing, data analysis, and ML applications  [learn about Matplotlib](https://matplotlib.org)
 
   
@@ -34,6 +34,12 @@ The tutorials covered in this repository are:
 + [Pie Charts using Matplotlib](https://github.com/AEEldin/PieChart-Matplotlib)
 
 + [Scatter Charts using Matplotlib](https://github.com/AEEldin/ScatterChart-Matplotlib)
+
++ Stackable Bar Charts using Matplotlib
+
++ Area Charts
+
++ Histograms
 
 
 
