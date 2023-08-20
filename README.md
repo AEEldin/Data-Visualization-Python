@@ -8,3 +8,11 @@ The tutorials covered in this repository are:
 + [Bar Charts using Matplotlib](https://github.com/AEEldin/BarChart-Matplotlib).
   
 + [Pie Charts using Matplotlib](https://github.com/AEEldin/PieChart-Matplotlib).
+
++ Scatter Charts using Matplotlib
+
+
+
+More resources
+
++ [Fundamentals of Data Visualization by Claus O. Wilke](https://clauswilke.com/dataviz/)
