@@ -13,6 +13,14 @@ Some of the common visualization techniques include:
 + Tree Maps: this technique is used to display organizational and hierarchical structure as a set of nested shapes.
 + Scatter and Bubble Plots: this technique is used to capture the relationship between a set of variables and is commonly used within regression data analysis.
 
+
+
+Python provides a wide range of data visualization libraries:
+
++ Altair: This library is built on top of vega-lite visualization grammer to create complex, layered, and interactive visualizations of data with declarative syntax [learn more about Altair](https://altair-viz.github.io)
++ Folium: This library is build on top of leaflet.js library to provide interactive maps and visualizations [learn about Folium](https://pypi.org/project/folium/)
+
+
   
 In this repository, we will have a set of simple educational tutorials on using Python's different libraries and packages to visualize information and data. 
 
